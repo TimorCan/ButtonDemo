@@ -1,6 +1,6 @@
 # ButtonDemo
 button重复点击问题
-[http://www.jianshu.com/p/7bca987976bd](参考链接)
+[参考链接](http://www.jianshu.com/p/7bca987976bd)
 ##使用方式
 >首先导入#import "UIButton+FixMutiClick.h"
 ```
